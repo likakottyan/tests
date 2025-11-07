@@ -1,0 +1,20 @@
+{
+    "archives": {
+        "photos_backup": {
+            "wedding_photos.zip": 12500.4,
+            "travel_collection.rar": 9820.9,
+            "family_memories_2005_2015.tar": 15800.6
+        },
+        "old_documents": {
+            "contracts_2010_2020.pdf": 6700.3,
+            "financial_archive_2008.xlsx": 9400.2
+        }
+    },
+    "media": {
+        "movies": {
+            "interstellar_4k.mp4": 53200.7,
+            "inception_remastered.mkv": 48900.2,
+            "dark_knight_ultra_hd.mov": 41250.9
+        }
+    }
+}
